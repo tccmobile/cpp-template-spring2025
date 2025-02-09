@@ -1,0 +1,13 @@
+{
+    "name": "C++ Development",
+    "image": "mcr.microsoft.com/devcontainers/cpp:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.cmake-tools",
+                "GitHub.copilot"
+            ]
+        }
+    }
+} 
