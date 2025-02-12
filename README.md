@@ -49,7 +49,7 @@ make
 ```
 ### Running the Project
 ```bash
-./main
+./hello_world
 ```
 
 ### Testing the Project
